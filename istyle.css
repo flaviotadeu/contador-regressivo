@@ -4,7 +4,7 @@
     --background-topicos: #1e1e1e;
     --barra-interativa: #0025E4;
     --branco: #fff;
-    --btn-ativo: #1d0ae9;
+    --btn-ativo: #0b0092;
     --borda: #151515;
     --black: #000;
     --fonte: "Anta", sans-serif;
@@ -42,7 +42,7 @@ body{
 .btn{
     display: flex;
     font-family: var(--fonte);
-    background-color: var(--botao-inativo);
+    background-color: var(--background-topicos);
     color: var(--branco);
     justify-content: center;
     padding: 1em;
